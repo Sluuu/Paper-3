@@ -1,4 +1,4 @@
-# Starter folder
+# Paper 3 - Spadina Paper
 
 ## Overview
 
